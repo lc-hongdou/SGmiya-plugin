@@ -1,5 +1,5 @@
 {
-  "name": "yenai-plguin",
+  "name": "sgmiya-plguin",
   "version": "1.0.0",
   "description": "Yunzai-Bot插件扩展",
   "main": "index.js",
@@ -10,19 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/yeyang52/yenai-plugin.git"
+    "url": "https://ghproxy.com/https://github.com/lc-hongdou/SGmiya-plugin.git"
   },
   "keywords": [
     "Yunzai-Bot",
-    "yenai-plguin"
+    "SGmiya-plguin"
   ],
-  "author": "yeyang",
+  "author": "Shanhugong",
   "license": "GPL-3.0",
   "dependencies": {
-    "cheerio": "1.0.0-rc.12",
-    "systeminformation": "^5.17.1"
+    "cheerio": "1.0.0-rc.12"
   },
   "devDependencies": {
-    "all-contributors-cli": "^6.24.0"
   }
 }
