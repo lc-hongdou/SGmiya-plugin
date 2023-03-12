@@ -5,10 +5,15 @@ const files = fs.readdirSync('./plugins/SGmiya-plugin/apps').filter(file => file
 
 let ret = []
 
-logger.info(chalk.rgb(253, 235, 255)('-----(SGmiya-plugin)-----'))
-logger.info(chalk.rgb(253, 235, 255)(`珊瑚宫插件${Ver.ver}初始化~`))
-logger.info(chalk.rgb(253, 235, 255)(`----Hellow-欢迎锄地------`))
-logger.info(chalk.rgb(255, 207, 247)('-------------------------'))
+logger.info(`\n
+\t${chalk.rgb(253, 235, 255)(`   _____    _____    Hellow~    _     欢迎锄地！   `)}\t
+\t${chalk.rgb(253, 235, 255)(`  / ____|  / ____|             (_)                `)}\t
+\t${chalk.rgb(253, 235, 255)(` | (___   | |  __   _ __ ___    _   _   _    __ _ `)}\t
+\t${chalk.rgb(253, 235, 255)(`  |___ |  | | |_ | | '_ ' _ |  | | | | | |  / _' |`)}\t
+\t${chalk.rgb(253, 235, 255)(`  ____) | | |__| | | | | | | | | | | |_| | | (_| |`)}\t
+\t${chalk.rgb(253, 235, 255)(` |_____/   |_____| |_| |_| |_| |_|  |__, |  |__,_|`)}\t
+\t${chalk.rgb(253, 235, 255)(`                                     __/ |        `)}\t
+\t${chalk.rgb(253, 235, 255)(`    珊瑚宫插件${Ver.ver}初始化~          |___/         `)}\t`)
 
 files.forEach((file) => {
   ret.push(import(`./apps/${file}`))
