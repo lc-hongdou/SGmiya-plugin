@@ -2,7 +2,7 @@
   <a href="https://github.com/lc-hongdou/SGmiya-plugin" target="_blank"><img src="https://s2.loli.net/2023/03/12/u6VjEhR5SZYIW3p.webp" ></a>
 
   <h1>SGmiya-plugin</h1>
-  [![访问量](https://profile-counter.glitch.me/lc-hongdou-SGmiya-plugin/count.svg)](https://github.com/lc-hongdou/SGmiya-plugin)
+  [![访问量][(https://profile-counter.glitch.me/lc-hongdou-SGmiya-plugin/count.svg)](https://github.com/lc-hongdou/SGmiya-plugin)
 
 </p>
 
@@ -19,7 +19,7 @@
 [`元能构造体`](https://github.com/lc-hongdou/cao)
 [`兽肉`](https://github.com/lc-hongdou/feng)
 
-##插件说明
+## 插件说明
 
 <details><summary>展开</summary>
 
@@ -29,7 +29,7 @@
 
 </details>
 
-##食用方法🔥🔥🔥🔥
+## 食用方法🔥🔥🔥🔥
 
 <details><summary>拉取链接(选其中一个即可)</summary>
 
@@ -46,13 +46,12 @@ git clone --depth=1 https://kgithub.com/lc-hongdou/SGmiya-plugin.git ./plugins/S
 
 
 等待完成就行了，失败大概是网络问问题<br>
-普通面板(图鉴/非彩蛋面板等)存放位置<br>
 
 </details>
 
 
  
-##版权免责声明👀👀
+## 版权免责声明👀👀
 
 <details><summary>展开</summary>
 
