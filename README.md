@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/lc-hongdou/SGmiya-plugin" target="_blank"><img src="https://s2.loli.net/2023/03/12/u6VjEhR5SZYIW3p.webp" ></a>
 
-<h1>SGmiya-plugin</h1>
+  <h1>SGmiya-plugin</h1>
   [![访问量](https://profile-counter.glitch.me/lc-hongdou-SGmiya-plugin/count.svg)](https://github.com/lc-hongdou/SGmiya-plugin)
 
 </p>
@@ -19,8 +19,7 @@
 [`元能构造体`](https://github.com/lc-hongdou/cao)
 [`兽肉`](https://github.com/lc-hongdou/feng)
 
-
-####插件说明
+##插件说明
 
 <details><summary>展开</summary>
 
@@ -30,9 +29,10 @@
 
 </details>
 
- 食用方法🔥🔥🔥🔥
+##食用方法🔥🔥🔥🔥
 
 <details><summary>拉取链接(选其中一个即可)</summary>
+
 推荐使用[git](https://git-scm.com/)进行安装，以方便后续升级。在Yunzai根目录夹打开终端，运行
 ```
 git clone --depth=1 https://ghproxy.com/https://github.com/lc-hongdou/SGmiya-plugin.git ./plugins/SGmiya-plugin/
@@ -52,7 +52,7 @@ git clone --depth=1 https://kgithub.com/lc-hongdou/SGmiya-plugin.git ./plugins/S
 
 
  
- 版权免责声明👀👀
+##版权免责声明👀👀
 
 <details><summary>展开</summary>
 
