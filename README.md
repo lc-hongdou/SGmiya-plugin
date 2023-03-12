@@ -1,12 +1,39 @@
-<p align="center">
-  <a href="https://github.com/lc-hongdou/SGmiya-plugin" target="_blank"><img src="https://s2.loli.net/2023/03/12/u6VjEhR5SZYIW3p.webp" ></a>
+<div align="center">
+  <img src="https://s2.loli.net/2023/03/12/u6VjEhR5SZYIW3p.webp"  alt="logo" width = "350"
+  <br>
+  <h1>SGmiya-Plugin</h1>
+  
+  由珊瑚宫路线组提供的一些高效锄地路线
+  <br>
+  <img src="https://count.getloli.com/get/@:SGmiya-plugin?theme=rule34" /> <br>
+  <br>
+  
+                                                                                       
+      #######          # ###                                                         
+    /       ###      /  /###  /                      #                               
+   /         ##     /  /  ###/                      ###                              
+   ##        #     /  ##   ##                        #                               
+    ###           /  ###                                                             
+   ## ###        ##   ##          ### /### /###    ###     ##   ####         /###    
+    ### ###      ##   ##   ###     ##/ ###/ /##  /  ###     ##    ###  /    / ###  / 
+      ### ###    ##   ##  /###  /   ##  ###/ ###/    ##     ##     ###/    /   ###/  
+        ### /##  ##   ## /  ###/    ##   ##   ##     ##     ##      ##    ##    ##   
+          #/ /## ##   ##/    ##     ##   ##   ##     ##     ##      ##    ##    ##   
+           #/ ##  ##  ##     #      ##   ##   ##     ##     ##      ##    ##    ##   
+            # /    ## #      /      ##   ##   ##     ##     ##      ##    ##    ##   
+  /##        /      ###     /       ##   ##   ##     ##     ##      ##    ##    /#   
+ /  ########/        ######/        ###  ###  ###    ### /   #########     ####/ ##  
+/     #####            ###           ###  ###  ###    ##/      #### ###     ###   ## 
+|                                                                    ###             
+ \)                                                           #####   ###            
+                                                            /#######  /#             
+                                                           /      ###/               
 
-  <h1>SGmiya-plugin</h1>
-  [![访问量][(https://profile-counter.glitch.me/lc-hongdou-SGmiya-plugin/count.svg)](https://github.com/lc-hongdou/SGmiya-plugin)
 
-</p>
+  
+</div>
 
-
+---
 
 ## 介绍❤❤❤❤❤
 - 由珊瑚宫路线组提供的高效路线插件
