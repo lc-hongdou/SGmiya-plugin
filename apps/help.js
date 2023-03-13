@@ -3,7 +3,7 @@ import fs from 'fs'
 import _ from 'lodash'
 import { Data } from '../components/index.js'
 import { puppeteer } from '../model/index.js'
-export class YenaiHelp extends plugin {
+export class SGmiyaHelp extends plugin {
   constructor () {
     super({
       name: '珊瑚宫帮助',
@@ -27,11 +27,6 @@ async function help (e) {
   let custom = {}
   let help = {}
   let { diyCfg, sysCfg } = await Data.importCfg('help')
-
-  if (/群管/.test(e.msg)) {
-    diyCfg = await (await Data.importCfg('gpadmin')).diyCfg
-    sysCfg = await (await Data.importCfg('gpadmin')).sysCfg
-  }
 
   custom = help
 

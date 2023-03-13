@@ -19,7 +19,7 @@ export class Admin extends plugin {
         }
       ]
     })
-    this.key = 'yenai:restart'
+    this.key = 'SGmiya:restart'
   }
 
   async plugin_version () {
