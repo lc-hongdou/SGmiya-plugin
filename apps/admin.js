@@ -7,26 +7,26 @@ export class Admin extends plugin {
     super({
       name: '珊瑚宫插件版本信息',
       event: 'message',
-      priority: 400,
+      priority: 500,
       rule: [
         {
           reg: '^#?珊瑚宫(插件)?版本$',
-          fnc: 'plugin_version'
+          fnc: 'SGmiya_plugin_version'
         },
         {
           reg: '^#?珊瑚宫(插件)?更新日志$',
-          fnc: 'update_log'
+          fnc: 'SGmiya_plugin_update_log'
         }
       ]
     })
     this.key = 'SGmiya:restart'
   }
 
-  async plugin_version () {
+  async SGmiya_plugin_version () {
     return versionInfo(this.e)
   }
 
-  async update_log () {
+  async SGmiya_plugin_update_log () {
     let Update_Plugin = new update()
     Update_Plugin.e = this.e
     Update_Plugin.reply = this.reply

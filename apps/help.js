@@ -11,7 +11,7 @@ export class SGmiyaHelp extends plugin {
       priority: 2000,
       rule: [
         {
-          reg: '^#?珊瑚宫(插件)?(群管)?(帮助|菜单|功能)$',
+          reg: '^#?(珊瑚宫|SGmiya|shg)(插件)?(帮助|菜单|功能)$',
           fnc: 'message'
         }
       ]

@@ -56,46 +56,6 @@ class Config {
     return this.getDefOrConfig('whole')
   }
 
-  /** 进群验证配置 */
-  get groupverify () {
-    return this.getDefOrConfig('groupverify')
-  }
-
-  /** 头衔屏蔽词 */
-  get groupTitle () {
-    return this.getDefOrConfig('groupTitle')
-  }
-
-  /** 加群通知 */
-  get groupAdd () {
-    return this.getDefOrConfig('groupAdd')
-  }
-
-  /** 代理 */
-  get proxy () {
-    return this.getDefOrConfig('proxy')
-  }
-
-  /** pixiv */
-  get pixiv () {
-    return this.getDefOrConfig('pixiv')
-  }
-
-  /** 哔咔 */
-  get bika () {
-    return this.getDefOrConfig('bika')
-  }
-
-  /** 搜图 */
-  get picSearch () {
-    return this.getDefOrConfig('picSearch')
-  }
-
-  /** setu */
-  get setu () {
-    return this.getDefOrConfig('setu')
-  }
-
   /** 默认配置和用户配置 */
   getDefOrConfig (name) {
     let def = this.getdefSet(name)
@@ -143,7 +103,7 @@ class Config {
     watcher.on('change', path => {
       delete this.config[key]
       if (typeof Bot == 'undefined') return
-      logger.mark(`[椰奶修改配置文件][${type}][${name}]`)
+      logger.mark(`[珊瑚宫修改配置文件][${type}][${name}]`)
       if (this[`change_${name}`]) {
         this[`change_${name}`]()
       }
@@ -184,22 +144,5 @@ class Config {
     }
   }
 
-  async change_picApi () {
-    let tmp = {}
-
-    logger.debug('[椰奶]api接口修改，重载fun.js')
-    tmp = await import(`../apps/fun.js?${moment().format('x')}`)
-
-    _.forEach(tmp, (p) => {
-      /* eslint-disable new-cap */
-      let plugin = new p()
-      for (let i in loader.priority) {
-        if (loader.priority[i].key == Plugin_Name && loader.priority[i].name == '椰奶娱乐') {
-          loader.priority[i].class = p
-          loader.priority[i].priority = plugin.priority
-        }
-      }
-    })
-  }
 }
 export default new Config()

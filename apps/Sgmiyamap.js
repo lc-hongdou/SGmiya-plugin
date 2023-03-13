@@ -1,6 +1,5 @@
 import { segment } from "oicq";
-import fetch from "node-fetch";
-import fs from 'fs'
+import fs from 'fs';
 const _path = process.cwd();//项目路径
 const p_path = `${_path}/plugins/SGmiya-plugin/resources/须弥-雨林/`
 

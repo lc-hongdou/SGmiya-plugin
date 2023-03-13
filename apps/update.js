@@ -36,7 +36,7 @@ export class Update extends plugin {
 
     /** 检查是否正在更新中 */
     if (uping) {
-      await this.reply('已有命令更新中..请勿重复操作')
+      await this.reply('正在更新中...我知道你很急，但你先别急')
       return
     }
 
@@ -60,40 +60,40 @@ export class Update extends plugin {
   }
 
   /**
-   * 椰奶插件更新函数
+   * 珊瑚宫插件更新函数
    * @param {boolean} isForce 是否为强制更新
    * @returns
    */
   async runUpdate (isForce) {
-    let command = 'git -C ./plugins/yenai-plugin/ pull --no-rebase'
+    let command = 'git -C ./plugins/SGmiya-plugin/ pull --no-rebase'
     if (isForce) {
-      command = `git -C ./plugins/yenai-plugin/ checkout . && ${command}`
+      command = `git -C ./plugins/SGmiya-plugin/ checkout . && ${command}`
       this.e.reply('正在执行强制更新操作，请稍等')
     } else {
       this.e.reply('正在执行更新操作，请稍等')
     }
     /** 获取上次提交的commitId，用于获取日志时判断新增的更新日志 */
-    this.oldCommitId = await this.getcommitId('yenai-plugin')
+    this.oldCommitId = await this.getcommitId('SGmiya-plugin')
     uping = true
     let ret = await this.execSync(command)
     uping = false
 
     if (ret.error) {
-      logger.mark(`${this.e.logFnc} 更新失败：椰奶插件`)
+      logger.mark(`${this.e.logFnc} 更新失败：珊瑚宫插件`)
       this.gitErr(ret.error, ret.stdout)
       return false
     }
 
     /** 获取插件提交的最新时间 */
-    let time = await this.getTime('yenai-plugin')
+    let time = await this.getTime('SGmiya-plugin')
 
     if (/(Already up[ -]to[ -]date|已经是最新的)/.test(ret.stdout)) {
-      await this.reply(`椰奶插件已经是最新版本\n最后更新时间：${time}`)
+      await this.reply(`珊瑚宫插件已经是最新版本\n最后更新时间：${time}`)
     } else {
-      await this.reply(`椰奶插件\n最后更新时间：${time}`)
+      await this.reply(`珊瑚宫插件\n最后更新时间：${time}`)
       this.isUp = true
-      /** 获取椰奶组件的更新日志 */
-      let log = await this.getLog('yenai-plugin')
+      /** 获取珊瑚宫组件的更新日志 */
+      let log = await this.getLog('SGmiya-plugin')
       await this.reply(log)
     }
 
@@ -103,7 +103,7 @@ export class Update extends plugin {
   }
 
   /**
-   * 获取椰奶插件的更新日志
+   * 获取珊瑚宫插件的更新日志
    * @param {string} plugin 插件名称
    * @returns
    */
@@ -136,9 +136,9 @@ export class Update extends plugin {
 
     let end = ''
     end =
-      '更多详细信息，请前往gitee查看\nhttps://gitee.com/yeyang52/yenai-plugin/blob/master/CHANGELOG.md'
+      '更多详细信息，请前往github查看\nhttps://github.com/lc-hongdou/SGmiya-plugin'
 
-    log = await this.makeForwardMsg(`椰奶插件更新日志，共${line}条`, log, end)
+    log = await this.makeForwardMsg(`珊瑚宫插件更新日志，共${line}条`, log, end)
 
     return log
   }
