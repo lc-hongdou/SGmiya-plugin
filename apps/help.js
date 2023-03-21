@@ -3,7 +3,6 @@ import fs from 'fs'
 import _ from 'lodash'
 import { Data } from '../components/index.js'
 import { puppeteer } from '../model/index.js'
-
 export class SGmiyaHelp extends plugin {
   constructor () {
     super({
