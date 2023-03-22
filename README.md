@@ -18,11 +18,17 @@
 
 
 ## 插件介绍&路线索引
-由**珊瑚宫路线组**提供的高效路线插件<br>		如果您想为此仓库贡献，请见**☞[`贡献指南`](./resources/CONTRIBUTING.md)**向此仓库发起 pull request
+由**珊瑚宫路线组**提供的高效路线插件<br>		
 
-##### **插件计划包含路线*[施工中]***
+#### 插件附加功能[施工中][先挖坑]
 
-###### **上限型快速锄地路线&客制化锄地路线**
+- [ ] 路线合并转发
+- [ ] 手机小图模式
+- [ ] 锄地黑名单功能
+
+#### **插件计划包含路线*[施工中]***
+
+##### **上限型快速锄地路线&客制化锄地路线**
 
 **【+/-62体系路线↓↓↓】**
 
@@ -30,55 +36,55 @@
 - [x] **+6路线：**[**上限型精英怪路线 | +6V1**](https://www.miyoushe.com/ys/article/34588117)**【收益型路线】**
 - [x] **+2路线：**[**上限型精英怪狗粮路线 | +2**](https://www.miyoushe.com/ys/article/34708984)**【最快上限，适合不缺摩拉的人】**
 - [ ] **讲解版：**[**V2.6多人世界精英怪/摩拉刷取指南 | 效率最高的锄地路线**](https://bbs.mihoyo.com/ys/article/21851404)**【已过时】**
-- [ ] **小怪 A：**[**上限型非精英怪锄地路线****A**](https://www.miyoushe.com/ys/article/36176023)**【理论上限效率最高】**
+- [x] **小怪 A：**[**上限型非精英怪锄地路线****A**](https://www.miyoushe.com/ys/article/36176023)**【理论上限效率最高】**
 - [ ] **小怪 A：**[**最强小怪锄地路线 | V3.5小怪-(A) | 详情展示**](https://www.bilibili.com/video/BV1QT411Y7EN/)**【展示视频】**
-- [ ] **小怪 B：**[**上限型非精英怪锄地路线B**](https://www.miyoushe.com/ys/article/36621852)**【最适合萌新，但是配合得当的话效率不如A】**
+- [x] **小怪 B：**[**上限型非精英怪锄地路线B**](https://www.miyoushe.com/ys/article/36621852)**【最适合萌新，但是配合得当的话效率不如A】**
 - [ ] **分   路：**[**上限型非精英怪快速锄地 | 分路说明**](https://bbs.mihoyo.com/ys/article/15152942)**【缺乏更新，但是仍有参考价值】**
 - [ ] **配   平：**[**上限型精英怪材料配平路线**](https://bbs.mihoyo.com/ys/article/24998552)**【材料偏科推荐】**
 - [ ] **角色专属客制化路线：【暂无，研究中，进展缓慢】**
 
-###### **怪物材料路线**>>一些锄地不常见怪物的讨伐路线。
+##### **怪物材料路线**>>一些锄地不常见怪物的讨伐路线。
 
 **精英怪：**
 
-- [x] **空   壳：**[**空壳材料路线**](https://bbs.mihoyo.com/ys/article/19778701)**【600怪，除了材料之外也可补上限】**
-- [x] **龙   兽：**[**V3.1龙兽讨伐路线图**](https://bbs.mihoyo.com/ys/article/29785529)
-- [x] **元   能：**[**元能构装体4连上限**](https://www.miyoushe.com/ys/article/34856070)**【收益路线】**
-- [x] **元   能：**[**元能构装体67只快速讨伐路线**](https://www.miyoushe.com/ys/article/34612392)**【效率路线】**
-- [x] **愚人众：**[**愚人众精英怪配平路线（雷冰萤+债务处理人+镜女）**](https://bbs.mihoyo.com/ys/article/29996255)**【精英怪版】**
-- [x] **镜   女：**[**藏镜仕女讨伐路线**](https://www.miyoushe.com/ys/article/31519330)
-- [x] **圣骸兽：**[**圣骸兽讨伐材料路线|20230202**](https://www.miyoushe.com/ys/article/35149487)
-- [x] **流血狗：**[**流血狗-高效路线【8分钟200材料】**](https://www.miyoushe.com/ys/article/31948915)
+- [ ] **空   壳：**[**空壳材料路线**](https://bbs.mihoyo.com/ys/article/19778701)**【600怪，除了材料之外也可补上限】**
+- [ ] **龙   兽：**[**V3.1龙兽讨伐路线图**](https://bbs.mihoyo.com/ys/article/29785529)
+- [ ] **元   能：**[**元能构装体4连上限**](https://www.miyoushe.com/ys/article/34856070)**【收益路线】**
+- [ ] **元   能：**[**元能构装体67只快速讨伐路线**](https://www.miyoushe.com/ys/article/34612392)**【效率路线】**
+- [ ] **愚人众：**[**愚人众精英怪配平路线（雷冰萤+债务处理人+镜女）**](https://bbs.mihoyo.com/ys/article/29996255)**【精英怪版】**
+- [ ] **镜   女：**[**藏镜仕女讨伐路线**](https://www.miyoushe.com/ys/article/31519330)
+- [ ] **圣骸兽：**[**圣骸兽讨伐材料路线|20230202**](https://www.miyoushe.com/ys/article/35149487)
+- [ ] **流血狗：**[**流血狗-高效路线【8分钟200材料】**](https://www.miyoushe.com/ys/article/31948915)
 
 **普通怪：**
 
-- [x] **漂浮灵：**[**理论最优解-漂浮灵讨伐路线**](https://www.miyoushe.com/ys/article/28767537)
-- [x] **盗宝团：**[**原神-盗宝团高效路线**](https://bbs.mihoyo.com/ys/article/31345335)
-- [x] **刀   镡：**[**刀镡效率优先型路线**](https://bbs.mihoyo.com/ys/article/25159158)
-- [x] **骗骗花：**[**骗骗花-高效路线**](https://bbs.mihoyo.com/ys/article/28504169)
-- [x] **蕈   兽：**[**活化蕈兽材料效率路线**](https://bbs.mihoyo.com/ys/article/32217399)**【活化材料】**
-- [x] **蕈   兽：**[**高效蕈兽路线** ](https://www.miyoushe.com/ys/article/34789193)**【小怪版】**
-- [x] **史莱姆：**[**原神史莱姆高效讨伐路线**](https://bbs.mihoyo.com/ys/article/30510165)
-- [x] **镀   金：**[**镀金旅团一图流材料适用路线**](https://bbs.mihoyo.com/ys/article/28018505)
-- [x] **镀   金：**[**镀金大驮兽速刷**](https://www.miyoushe.com/ys/article/35476784)**【驮门！】**
-- [x] **愚人众：**[**愚人众讨伐路线**](https://bbs.mihoyo.com/ys/article/23622684)**【先遣队】**
-- [x] **丘丘人：**[**原神-丘丘驮兽-高效路线**](https://www.miyoushe.com/ys/article/35808582)**【驮门！】**
-- [x] **丘萨满：**[**原神-丘丘萨满-高效讨伐路线**](https://bbs.mihoyo.com/ys/article/25933460)
+- [ ] **漂浮灵：**[**理论最优解-漂浮灵讨伐路线**](https://www.miyoushe.com/ys/article/28767537)
+- [ ] **盗宝团：**[**原神-盗宝团高效路线**](https://bbs.mihoyo.com/ys/article/31345335)
+- [ ] **刀   镡：**[**刀镡效率优先型路线**](https://bbs.mihoyo.com/ys/article/25159158)
+- [ ] **骗骗花：**[**骗骗花-高效路线**](https://bbs.mihoyo.com/ys/article/28504169)
+- [ ] **蕈   兽：**[**活化蕈兽材料效率路线**](https://bbs.mihoyo.com/ys/article/32217399)**【活化材料】**
+- [ ] **蕈   兽：**[**高效蕈兽路线** ](https://www.miyoushe.com/ys/article/34789193)**【小怪版】**
+- [ ] **史莱姆：**[**原神史莱姆高效讨伐路线**](https://bbs.mihoyo.com/ys/article/30510165)
+- [ ] **镀   金：**[**镀金旅团一图流材料适用路线**](https://bbs.mihoyo.com/ys/article/28018505)
+- [ ] **镀   金：**[**镀金大驮兽速刷**](https://www.miyoushe.com/ys/article/35476784)**【驮门！】**
+- [ ] **愚人众：**[**愚人众讨伐路线**](https://bbs.mihoyo.com/ys/article/23622684)**【先遣队】**
+- [ ] **丘丘人：**[**原神-丘丘驮兽-高效路线**](https://www.miyoushe.com/ys/article/35808582)**【驮门！】**
+- [ ] **丘萨满：**[**原神-丘丘萨满-高效讨伐路线**](https://bbs.mihoyo.com/ys/article/25933460)
 
 **综合路线：**
 
-- [x] **萨满驽：**[**丘丘萨满 丘丘弩手复合路线**](https://www.miyoushe.com/ys/article/34788750)
-- [x] **大驮兽：**[**大驮兽速刷路线**](https://www.miyoushe.com/ys/article/34829484)**【消灭材料路线暴政，世界属于驼门！】**
+- [ ] **萨满驽：**[**丘丘萨满 丘丘弩手复合路线**](https://www.miyoushe.com/ys/article/34788750)
+- [ ] **大驮兽：**[**大驮兽速刷路线**](https://www.miyoushe.com/ys/article/34829484)**【消灭材料路线暴政，世界属于驼门！】**
 
 ---
 
-###### **【富矿体系】**
+##### **【富矿体系】**
 
 - [ ] **富   矿：**[**3.4-富矿路线，高效挖矿，**](https://www.miyoushe.com/ys/article/35477129)**【高效挖矿！****22min270矿****】**
 - [ ] **白铁矿：**[**原神-白铁矿-挖取指南**](https://bbs.mihoyo.com/ys/article/30758249)
 - [ ] **铁   矿：**[**原神-铁矿-高效路线，5分钟可打80颗，原壶玩家必备**](https://bbs.mihoyo.com/ys/article/30479391)
 
-###### **圣遗物狗粮调查**
+##### **圣遗物狗粮调查**
 
 圣遗物狗粮推荐AB线，A线为主线日常使用，B线为倒时差线。
 
@@ -86,7 +92,7 @@
 
 ---
 
-###### **锄地技巧**
+##### **锄地技巧**
 
 - [ ] **移   速：**[**原神锄地移速论**](https://www.miyoushe.com/ys/article/34181374)
 - [ ] **技   巧：**[**锄大地之拉怪讲解**](https://bbs.mihoyo.com/ys/article/30042765)**【含综合技巧&选择性必修-甘雨/琴】**
@@ -103,7 +109,7 @@
 
 ---
 
-###### **非怪物类采集路线**
+##### **非怪物类采集路线**
 
 **动物类（需要交互，击杀）：**
 
@@ -189,7 +195,7 @@ git clone --depth=1 https://kgithub.com/lc-hongdou/SGmiya-plugin.git ./plugins/S
 
 
 
-## 版权免责声明👀👀
+## 版权免责声明
 
 <details><summary>展开</summary>
 路线为珊瑚宫路线组授权，禁止任何形式的商用和违法用途<br>
@@ -197,12 +203,12 @@ git clone --depth=1 https://kgithub.com/lc-hongdou/SGmiya-plugin.git ./plugins/S
 
 </details>
 
-## ## 特别鸣谢
+## 特别鸣谢
 
-以及【珊瑚宫】&【仓鼠屯】的各位偶像
+- **【珊瑚宫】&【仓鼠屯】的各位偶像**
 
 
-| 交流频道 | 珊瑚宫路线组 | IDXXXX |
+| QQ交流频道 | 珊瑚宫路线组 | IDXXXX |
 | --- | --- | --- |
 
 （在里面划水bushi）

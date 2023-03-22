@@ -22,12 +22,37 @@ export const helpCfg = {
 }
 
 export const helpList = [{
-  group: '定义精英怪（占用400上限的怪）',
-  list: [{
-    icon: 1,
-    title: '#日常路线 #-6',
-    desc: '效率最高的锄地路线【-6】'
+    group: '上限型快速锄地路线',
+    list: [{
+      icon: 1,
+      title: '#日常路线 #-6 #rclx #-600',
+      desc: '【效率最高，平衡收益】【-6】'
+    },
+    {
+      icon: 2,
+      title: '#a6 #收益路线 #sylx #a600',
+      desc: '【收益型路线】【+6】'
+    },
+    {
+      icon: 3,
+      title: '#a2 #效率路线 #xllx',
+      desc: '【最快上限，适合不缺摩拉的人】【+2】'
+    },  
+    {
+      icon: 4,
+      title: '#小怪路线A #xglxa #xga',
+      desc: '【理论上限效率最高】【小怪】'
+    },   
+    {
+      icon: 5,
+      title: '#小怪路线B #xglxb #xgb',
+      desc: '【最适合萌新，但是配合得当的话效率不如A】'
+    },    
+    ]
   },
+  {
+  group: '定义精英怪（占用400上限的怪）[施工中]',
+  list: [
   {
     icon: 2,
     title: '#空壳路线',
@@ -76,7 +101,7 @@ export const helpList = [{
   ]
 },
  {
-  group: '定义普通怪（占用2000上限的怪）',
+  group: '定义普通怪（占用2000上限的怪）[施工中]',
   list: [
   {
     icon: 15,
@@ -131,7 +156,7 @@ export const helpList = [{
   ]
 },
 {
-  group: '定义动物材料路线',
+  group: '定义动物材料路线[施工中]',
   list: [
   {
     icon: 15,
@@ -146,7 +171,7 @@ export const helpList = [{
   ]
 },
  {
-  group: '综合路线',
+  group: '综合路线[施工中]',
   list: [
   {
     icon: 15,
@@ -223,6 +248,11 @@ export const helpList = [{
     icon: 8,
     title: '#珊瑚宫设置',
     desc: '查看珊瑚宫设置'
+  },
+  {
+    icon: 10,
+    title: '#珊瑚宫帮助#shgbz#路线图帮助',
+    desc: '查看珊瑚宫帮助|菜单'
   },
   {
     icon: 1,
