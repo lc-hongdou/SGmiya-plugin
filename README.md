@@ -15,7 +15,7 @@
 
 ---
 
-## :arrow_down_small::arrow_down_small::arrow_down_small:食用方法
+## Ⅰ.食用方法
 
 <details><summary>拉取链接(选其中一个即可)</summary>
 
@@ -43,7 +43,7 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 ---
 
-## :new::new::new:插件介绍&路线索引
+## Ⅱ.插件介绍&路线索引
 
 - 由**珊瑚宫路线组**提供的高效路线插件<br>
 
@@ -244,7 +244,7 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 ---
 
 
-## :stop_button::stop_button::stop_button:版权免责声明
+## Ⅲ.版权免责声明
 
 <details><summary>展开</summary>
 
@@ -255,7 +255,7 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 ---
 
-## :end::end::end:特别鸣谢
+## Ⅳ.特别鸣谢
 
 - **【珊瑚宫】&【仓鼠屯】的各位偶像**
 
@@ -265,7 +265,7 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 ---
 
-## :fast_forward::fast_forward::fast_forward:链接:link::link:
+## Ⅴ.链接:link::link:
 
 * :one:Yunzai-Bot：**[Gitee](https://gitee.com/Le-niao/Yunzai-Bot) & [Github](https://github.com/Le-niao/Yunzai-Bot)**
 * :two:Yunzai-Bot插件库：**[Gitee](https://gitee.com/Hikari666/Yunzai-Bot-plugins-index) & [GitHub](https://github.com/HiArcadia/Yunzai-Bot-plugins-index)**
