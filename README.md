@@ -9,6 +9,8 @@
     ———————————————↓↓START↓↓———————————————<br>
   <br>
   <img src="https://count.getloli.com/get/@:SGmiya-plugin?theme=rule34" /> <br>
+
+
   <br>                                          
 
 </div>
@@ -272,3 +274,13 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 * :star:最后再求个star，你的支持是维护本项目的动力！！！
 
 ---
+
+<a href="[ SGmiya-plugin是一个Yunzai-Bot的锄地扩展插件，由珊瑚宫路线组提供一些便捷的路线图。](https://github.com/lc-hongdou/SGmiya-plugin)/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lc-hongdou/SGmiya-plugin" />
+</a>
+
+
+![Alt](https://repobeats.axiom.co/api/embed/a80c96b4cb08fe8e49d7af9961d30e9657478c43.svg "Repobeats analytics image")
+
+
+
