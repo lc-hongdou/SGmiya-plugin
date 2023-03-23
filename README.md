@@ -18,6 +18,7 @@
 ## :arrow_down_small::arrow_down_small::arrow_down_small:食用方法
 
 <details><summary>拉取链接(选其中一个即可)</summary>
+
 推荐使用[**git**](https://git-scm.com/)进行安装，以方便后续升级。在**Yunzai根目录**打开终端，运行
 
 - 使用**GitHub**
@@ -53,8 +54,6 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 - [ ] 手机小图模式
 - [ ] 锄地黑名单功能
 
----
-
 #### :b:**插件计划包含路线**[施工中]
 
 ##### :one:**上限型快速锄地路线&客制化锄地路线**[施工ing]✅
@@ -75,8 +74,6 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 - [ ] **角色专属客制化路线：【暂无，研究中，进展缓慢】**
 
 </details>
-
----
 
 ##### :two:**怪物材料路线**>>*一些锄地不常见怪物的讨伐路线*[施工ing]❎
 
@@ -123,8 +120,6 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 </details>
 
----
-
 ##### :three:**【富矿体系】**[施工ing]❎
 
 <details><summary>展开</summary>
@@ -135,8 +130,6 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 </details>
 
----
-
 ##### :four:**圣遗物狗粮调查[施工ing]**❎
 
 <details><summary>展开</summary>
@@ -146,8 +139,6 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 - [ ] **狗   粮：**[**3.4版本圣遗物狗粮AB线，127/119，持续更新**](https://www.miyoushe.com/ys/article/35332798)
 
 </details>
-
----
 
 ##### :five:**锄地技巧**[施工ing]❎
 
@@ -167,8 +158,6 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 - [ ] **锄地基础：**[**带你了解效率型锄地**](https://www.miyoushe.com/ys/article/36956836)**【原-三张图带你了解效率型锄地】**
 
 </details>
-
----
 
 ##### :six:**非怪物类采集路线**[施工ing]❎
 
