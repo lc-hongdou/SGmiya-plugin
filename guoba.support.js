@@ -32,35 +32,19 @@ export function supportGuoba () {
       // 配置项 schemas
       schemas: [
         {
-          field: 'flashPhoto',
-          label: '闪照',
-          helpMessage: '目前QQ群聊闪照功能已被移除',
-          bottomHelpMessage: '开启后将转发群聊和私聊的闪照',
+          field: 'mihoyolink',
+          label: '链接模式',
+          helpMessage: '---',
+          bottomHelpMessage: '路线图网页链接模式（施工中）',
           component: 'Switch'
         },
         {
-          field: 'botBeenBanned',
-          label: 'Bot被禁言',
-          bottomHelpMessage: 'Bot在群聊被禁言后通知主人',
+          field: 'MPicture',
+          label: '手机图片模式',
+          helpMessage: '---',
+          bottomHelpMessage: '路线图手机图片模式（施工中）',
           component: 'Switch'
-        },
-        {
-          component: 'Divider',
-          label: 'pixiv设置'
-        },
-        {
-          field: 'sese',
-          label: 'sese',
-          bottomHelpMessage: '开放一些功能',
-          component: 'Switch'
-        },
-        {
-          field: 'sesepro',
-          label: 'sesepro',
-          bottomHelpMessage: '开放全部功能',
-          component: 'Switch'
-        }
-
+        },       
       ],
       // 获取配置数据方法（用于前端填充显示数据）
       getConfigData () {
