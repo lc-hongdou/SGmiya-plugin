@@ -132,7 +132,7 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 </details>
 
-##### :four:**圣遗物狗粮调查[施工ing]**❎
+##### :four:圣遗物狗粮调查[施工ing]❎
 
 <details><summary>展开</summary>
 
