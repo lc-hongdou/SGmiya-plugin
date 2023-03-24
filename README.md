@@ -58,7 +58,7 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 #### :b:**插件计划包含路线**[施工中]
 
-##### :one:**上限型快速锄地路线&客制化锄地路线**[施工ing]✅
+##### :one:**上限型快速锄地路线&客制化锄地路线**[施工ing] [Toplimit]✅
 
 ###### :small_red_triangle_down:**【+/-62体系路线↓↓↓】**
 
@@ -77,7 +77,7 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 </details>
 
-##### :two:**怪物材料路线**>>*一些锄地不常见怪物的讨伐路线*[施工ing]❎
+##### :two:**怪物材料路线**>>*一些锄地不常见怪物的讨伐路线*[施工ing] [Monster_Material]❎
 
 ###### :small_red_triangle_down:**精英怪：**
 
@@ -122,27 +122,27 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 </details>
 
-##### :three:**【富矿体系】**[施工ing]❎
+##### :three:**富矿体系** [Rich_ore]✅
 
 <details><summary>展开</summary>
 
-- [ ] **富   矿：**[**3.4-富矿路线，高效挖矿，**](https://www.miyoushe.com/ys/article/35477129)**【高效挖矿！****22min270矿****】**
-- [ ] **白铁矿：**[**原神-白铁矿-挖取指南**](https://bbs.mihoyo.com/ys/article/30758249)
-- [ ] **铁   矿：**[**原神-铁矿-高效路线，5分钟可打80颗，原壶玩家必备**](https://bbs.mihoyo.com/ys/article/30479391)
+- [x] **富   矿：**[**3.4-富矿路线，高效挖矿，**](https://www.miyoushe.com/ys/article/35477129)**【高效挖矿！****22min270矿****】**
+- [x] **白铁矿：**[**原神-白铁矿-挖取指南**](https://bbs.mihoyo.com/ys/article/30758249)
+- [x] **铁   矿：**[**原神-铁矿-高效路线，5分钟可打80颗，原壶玩家必备**](https://bbs.mihoyo.com/ys/article/30479391)
 
 </details>
 
-##### :four:圣遗物狗粮调查[施工ing]❎
+##### :four:圣遗物狗粮调查 [Sacred_Relics]✅
 
 <details><summary>展开</summary>
 
 ​	圣遗物狗粮推荐AB线，A线为主线日常使用，B线为倒时差线。
 
-- [ ] **狗   粮：**[**3.4版本圣遗物狗粮AB线，127/119，持续更新**](https://www.miyoushe.com/ys/article/35332798)
+- [x] **狗   粮：**[**3.4版本圣遗物狗粮AB线，127/119，持续更新**](https://www.miyoushe.com/ys/article/35332798)
 
 </details>
 
-##### :five:**锄地技巧**[施工ing]❎
+##### :five:**锄地技巧**[施工ing] [Hoeing_technique]❎
 
 <details><summary>展开</summary>
 
@@ -161,7 +161,7 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 </details>
 
-##### :six:**非怪物类采集路线**[施工ing]❎
+##### :six:**非怪物类采集路线**[施工ing] [NonMonster_Collection]❎
 
 ###### **:small_red_triangle_down:动物类（需要交互，击杀）：**
 
