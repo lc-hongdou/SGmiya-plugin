@@ -15,6 +15,9 @@
 
 </div>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
+
 ---
 
 ## Ⅰ.食用方法
