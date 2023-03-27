@@ -55,79 +55,49 @@ export const helpList = [{
   list: [
   {
     icon: 6,
-    title: '#空壳路线',
-    desc: '[补上限路线，含有其他怪]'
+    title: '#空壳路线 #空壳讨伐 #kklx',
+    desc: '补上限路线，推荐是先打这个再去打-6'
   },
   {
     icon: 7,
-    title: '#龙兽路线 ',
+    title: '#龙兽路线 #龙兽讨伐 #lslx ',
     desc: 'V3.1龙兽讨伐路线图'
   },
   {
     icon: 8,
-    title: '元能收益路',
-    desc: '元能构装体4连上限[收益路线]'
+    title: '#元能四连路线 #元能四连 #ynsllx #a2',
+    desc: '+2元能构装体4连上限'
   },
   {
     icon: 9,
-    title: '#元能效率路',
-    desc: '元能构装体67只快速路线[效率路线]'
+    title: '#元能快速讨伐 #元能讨伐 #ynkstf #-2',
+    desc: '3.4元能构装体67只-2路快速讨伐路线'
   },
   {
     icon: 10,
-    title: '#愚人众路线',
-    desc: '愚人众精英怪配平路线(雷冰萤+债务处理人+镜女)'
+    title: '#愚人众精英怪配平路线 #配平路线 #pplx',
+    desc: '雷冰萤+债务处理人+镜女配平路线'
   },
    {
     icon: 11,
-    title: '#镜女路线',
-    desc: '藏镜仕女讨伐路线'
+    title: '#镜女路线 #镜女讨伐 #jnlx',
+    desc: '藏镜仕女讨伐路线、15分钟27只'
   },
    {
     icon: 12,
-    title: '#圣骸兽路线',
-    desc: '圣骸兽讨伐材料路线'
+    title: '#圣骸兽路线 #圣骸兽讨伐 #shslx',
+    desc: '圣骸兽讨伐材料路线、20230202更新'
   },
    {
     icon: 13,
-    title: '#流血狗路线',
-    desc: '流血狗-高效路线[8分钟200材料]'
+    title: '#流血狗路线 #流血狗讨伐 #lxglx',
+    desc: '流血狗-高效路线（8分钟200材料）'
   },
   {
     icon: 14,
-    title: '#蕈兽路线',
+    title: '#蕈兽路线[XXX]',
     desc: '活化蕈兽材料效率路线[活化材料]'
   },
-  {
-    icon: 15,
-    title: '#           ',
-    desc: '        '
-  }, 
-  {
-    icon: 16,
-    title: '#           ',
-    desc: '        '
-  }, 
-  {
-    icon: 17,
-    title: '#           ',
-    desc: '        '
-  }, 
-  {
-    icon: 18,
-    title: '#           ',
-    desc: '        '
-  }, 
-  {
-    icon: 19,
-    title: '#           ',
-    desc: '        '
-  }, 
-  {
-    icon: 20,
-    title: '#           ',
-    desc: '        '
-  }, 
   ]
 },
 {
