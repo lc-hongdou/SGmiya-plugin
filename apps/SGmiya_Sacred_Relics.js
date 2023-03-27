@@ -8,9 +8,9 @@ export class SGrode extends plugin {
   constructor() {
     super({
       name: 'SG',
-      dsc: '图片',
+      dsc: '圣遗物狗粮路线',
       event: 'message',
-      priority: 4999,
+      priority: 5000,
       rule: [
       {
         /** 命令正则匹配 */

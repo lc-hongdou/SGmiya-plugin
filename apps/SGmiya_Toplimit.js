@@ -8,7 +8,7 @@ export class SGrode extends plugin {
   constructor() {
     super({
       name: 'SG',
-      dsc: '图片',
+      dsc: '上限型锄地路线',
       event: 'message',
       priority: 5000,
       rule: [

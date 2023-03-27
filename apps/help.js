@@ -12,7 +12,7 @@ export class SGmiyaHelp extends plugin {
       priority: 2000,
       rule: [
         {
-          reg: '^#?(珊瑚宫|SGmiya|shg|路线图)(插件)?(bz|帮助|菜单|功能)$',
+          reg: '^#?(珊瑚宫|SGmiya|shg|路线图|锄地)(插件)?(bz|帮助|菜单|功能)$',
           fnc: 'message'
         }
       ]
