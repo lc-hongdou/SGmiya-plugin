@@ -19,7 +19,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
 
 <div align="center">
-	
+
  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
@@ -96,14 +96,14 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 <details><summary>展开</summary>
 
-- [ ] **空   壳：**[**空壳材料路线**](https://bbs.mihoyo.com/ys/article/19778701)**【600怪，除了材料之外也可补上限】**
-- [ ] **龙   兽：**[**V3.1龙兽讨伐路线图**](https://bbs.mihoyo.com/ys/article/29785529)
-- [ ] **元   能：**[**元能构装体4连上限**](https://www.miyoushe.com/ys/article/34856070)**【收益路线】**
-- [ ] **元   能：**[**元能构装体67只快速讨伐路线**](https://www.miyoushe.com/ys/article/34612392)**【效率路线】**
-- [ ] **愚人众：**[**愚人众精英怪配平路线（雷冰萤+债务处理人+镜女）**](https://bbs.mihoyo.com/ys/article/29996255)**【精英怪版】**
-- [ ] **镜   女：**[**藏镜仕女讨伐路线**](https://www.miyoushe.com/ys/article/31519330)
-- [ ] **圣骸兽：**[**圣骸兽讨伐材料路线|20230202**](https://www.miyoushe.com/ys/article/35149487)
-- [ ] **流血狗：**[**流血狗-高效路线【8分钟200材料】**](https://www.miyoushe.com/ys/article/31948915)
+- [x] **空   壳：**[**空壳材料路线**](https://bbs.mihoyo.com/ys/article/19778701)**【600怪，除了材料之外也可补上限】**
+- [x] **龙   兽：**[**V3.1龙兽讨伐路线图**](https://bbs.mihoyo.com/ys/article/29785529)
+- [x] **元   能：**[**元能构装体4连上限**](https://www.miyoushe.com/ys/article/34856070)**【收益路线】**
+- [x] **元   能：**[**元能构装体67只快速讨伐路线**](https://www.miyoushe.com/ys/article/34612392)**【效率路线】**
+- [x] **愚人众：**[**愚人众精英怪配平路线（雷冰萤+债务处理人+镜女）**](https://bbs.mihoyo.com/ys/article/29996255)**【精英怪版】**
+- [x] **镜   女：**[**藏镜仕女讨伐路线**](https://www.miyoushe.com/ys/article/31519330)
+- [x] **圣骸兽：**[**圣骸兽讨伐材料路线|20230202**](https://www.miyoushe.com/ys/article/35149487)
+- [x] **流血狗：**[**流血狗-高效路线【8分钟200材料】**](https://www.miyoushe.com/ys/article/31948915)
 
 </details>
 
