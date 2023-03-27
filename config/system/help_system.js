@@ -51,7 +51,7 @@ export const helpList = [{
     ]
   },
   {
-  group: '怪物材料路线>>精英怪[施工中]',
+  group: '怪物材料路线>>精英怪',
   list: [
   {
     icon: 6,
@@ -275,7 +275,7 @@ export const helpList = [{
   },
   {
     icon: 10,
-    title: '#珊瑚宫帮助#shgbz#路线图帮助',
+    title: '#珊瑚宫帮助#shgbz#路线图帮助#锄地帮助',
     desc: '查看珊瑚宫帮助|菜单'
   },
   {
