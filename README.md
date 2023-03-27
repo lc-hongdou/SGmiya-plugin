@@ -18,6 +18,16 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
 
+<div align="center">
+	
+ <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
+
 ---
 
 ## Ⅰ.食用方法
