@@ -84,6 +84,7 @@ export class SGrode extends plugin {
           /** 执行方法 */
           fnc: "qqsmlx"
         },
+        
       ]
     })
   }
