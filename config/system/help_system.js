@@ -101,7 +101,7 @@ export const helpList = [{
   ]
 },
 {
-  group: '怪物材料路线>>普通怪[施工中]',
+  group: '怪物材料路线>>普通怪',
   list: [
   {
     icon: 15,
