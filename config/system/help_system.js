@@ -95,8 +95,8 @@ export const helpList = [{
   },
   {
     icon: 14,
-    title: '#蕈兽路线[XXX]',
-    desc: '活化蕈兽材料效率路线[活化材料]'
+    title: '#活化蕈兽路线 #活化蕈兽讨伐 #雷火蕈兽 #lhxslx',
+    desc: '活化蕈兽材料效率路线[雷火蕈兽]'
   },
   ]
 },
@@ -105,33 +105,58 @@ export const helpList = [{
   list: [
   {
     icon: 15,
-    title: '#           ',
-    desc: '        '
+    title: '#飘浮灵路线 #飘浮灵讨伐 #pfllx',
+    desc: '理论最优解-漂浮灵讨伐路线'
   }, 
   {
     icon: 16,
-    title: '#           ',
-    desc: '        '
+    title: '#盗宝团路线 #盗宝团讨伐 #dbtlx',
+    desc: '15分钟163只盗宝团高效路线'
   }, 
   {
     icon: 17,
-    title: '#           ',
-    desc: '        '
+    title: '#刀镡路线 #野伏众讨伐 #刀车 #dxlx #dc',
+    desc: '加权删减法制作-刀镡效率优先型路线'
   }, 
   {
     icon: 18,
-    title: '#           ',
-    desc: '        '
+    title: '#骗骗花路线 #骗骗花讨伐 #花车 #pphlx #hc',
+    desc: '含有目前地图上所有骗骗花的高效点位'
   }, 
   {
     icon: 19,
-    title: '#           ',
-    desc: '        '
+    title: '#普通蕈兽路线 #普通蕈兽讨伐 #普通蕈兽 #ptxslx',
+    desc: '禁止所有雷火系角色'
   }, 
   {
     icon: 20,
-    title: '#           ',
-    desc: '        '
+    title: '#史莱姆路线 #史莱姆讨伐 #slmlx',
+    desc: '20分钟、43史莱姆原浆'
+  }, 
+  {
+    icon: 21,
+    title: '#镀金旅团路线 #镀金旅团讨伐 #djltlx',
+    desc: '镀金旅团灭绝计划'
+  }, 
+  {
+    icon: 22,
+    title: '#镀金大驮兽路线 #大驮兽讨伐 #dtslx',
+    desc: '13分钟520镀金白材料'
+  }, 
+  {
+    icon: 23,
+    title: '#愚人众路线 #愚人众讨伐 #yrzlx',
+    desc: '愚人众先遣队讨伐路线'
+  }, 
+  {
+    icon: 24,
+    title: '#丘丘驮兽路线 #丘丘驮兽讨伐 #qqtslx',
+    desc: '这是获取丘丘人面具最高效的途径'
+  }, 
+  {
+    icon: 25,
+    title: '#丘丘萨满路线 #丘丘萨满讨伐 #qqsmlx',
+    desc: '13分钟获得7蓝30绿100白'
   }, 
   ]
 },
