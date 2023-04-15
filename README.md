@@ -111,18 +111,18 @@ git clone --depth=1 https://gitee.com/ljs_ice/SGmiya-plugin.git ./plugins/SGmiya
 
 <details><summary>展开</summary>
 
-- [ ] **漂浮灵：**[**理论最优解-漂浮灵讨伐路线**](https://www.miyoushe.com/ys/article/28767537)
-- [ ] **盗宝团：**[**原神-盗宝团高效路线**](https://bbs.mihoyo.com/ys/article/31345335)
-- [ ] **刀   镡：**[**刀镡效率优先型路线**](https://bbs.mihoyo.com/ys/article/25159158)
-- [ ] **骗骗花：**[**骗骗花-高效路线**](https://bbs.mihoyo.com/ys/article/28504169)
-- [ ] **蕈   兽：**[**活化蕈兽材料效率路线**](https://bbs.mihoyo.com/ys/article/32217399)**【活化材料】**
-- [ ] **蕈   兽：**[**高效蕈兽路线** ](https://www.miyoushe.com/ys/article/34789193)**【小怪版】**
-- [ ] **史莱姆：**[**原神史莱姆高效讨伐路线**](https://bbs.mihoyo.com/ys/article/30510165)
-- [ ] **镀   金：**[**镀金旅团一图流材料适用路线**](https://bbs.mihoyo.com/ys/article/28018505)
-- [ ] **镀   金：**[**镀金大驮兽速刷**](https://www.miyoushe.com/ys/article/35476784)**【驮门！】**
-- [ ] **愚人众：**[**愚人众讨伐路线**](https://bbs.mihoyo.com/ys/article/23622684)**【先遣队】**
-- [ ] **丘丘人：**[**原神-丘丘驮兽-高效路线**](https://www.miyoushe.com/ys/article/35808582)**【驮门！】**
-- [ ] **丘萨满：**[**原神-丘丘萨满-高效讨伐路线**](https://bbs.mihoyo.com/ys/article/25933460)
+- [x] **漂浮灵：**[**理论最优解-漂浮灵讨伐路线**](https://www.miyoushe.com/ys/article/28767537)
+- [x] **盗宝团：**[**原神-盗宝团高效路线**](https://bbs.mihoyo.com/ys/article/31345335)
+- [x] **刀   镡：**[**刀镡效率优先型路线**](https://bbs.mihoyo.com/ys/article/25159158)
+- [x] **骗骗花：**[**骗骗花-高效路线**](https://bbs.mihoyo.com/ys/article/28504169)
+- [x] **蕈   兽：**[**活化蕈兽材料效率路线**](https://bbs.mihoyo.com/ys/article/32217399)**【活化材料】**
+- [x] **蕈   兽：**[**高效蕈兽路线** ](https://www.miyoushe.com/ys/article/34789193)**【小怪版】**
+- [x] **史莱姆：**[**原神史莱姆高效讨伐路线**](https://bbs.mihoyo.com/ys/article/30510165)
+- [x] **镀   金：**[**镀金旅团一图流材料适用路线**](https://bbs.mihoyo.com/ys/article/28018505)
+- [x] **镀   金：**[**镀金大驮兽速刷**](https://www.miyoushe.com/ys/article/35476784)**【驮门！】**
+- [x] **愚人众：**[**愚人众讨伐路线**](https://bbs.mihoyo.com/ys/article/23622684)**【先遣队】**
+- [x] **丘丘人：**[**原神-丘丘驮兽-高效路线**](https://www.miyoushe.com/ys/article/35808582)**【驮门！】**
+- [x] **丘萨满：**[**原神-丘丘萨满-高效讨伐路线**](https://bbs.mihoyo.com/ys/article/25933460)
 
 </details>
 

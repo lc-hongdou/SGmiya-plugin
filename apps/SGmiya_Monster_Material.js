@@ -253,118 +253,118 @@ export class SGrode extends plugin {
     //返回true 阻挡消息不再往下
     return true;
     }
-    async jnlx(e) {
-      //文本
-      const text = "//---------↓SG-miya↓---------";
-      //路线基本参数
-      const text1 = "\n>> 路线名称:原神-藏镜仕女-讨伐路线";
-      const text2 = "\n>> 怪物数量:32~34只";
-      // const text3 = "\n>> 预计耗时:18~22min";
-      const text4 = "\n>> 收益:15分钟27只";
-      // const text5 = "\n>> 狗粮平均:13个（蓝＋紫）";
-      // const text6 = "\n>> 上限需要:三趟";
-      // const text7 = "\n>> 上限:400定义精英怪";
-      const text8 = "\n>> 推荐阵容:双风+任意锄地角色";
-      const text_ = "\n------不清晰请保存原图查看------//";
-      const route_link = "\n>> https://www.miyoushe.com/ys/article/31519330";
-      let msg = [
-          //@用户
-          // segment.at(e.user_id),
-        //文本消息
-          text,
-          text1,
-          text2,
-          // text3,
-         text4,
-        //  text5,
-        //  text6,
-        //  text7,
-          text8,
-          text_,
-          //路线图
-          // segment.image(`file:///${s_path}/fklx.webp`),
-          segment.image(`https://s2.loli.net/2023/03/27/ySHolbr38paKCUT.webp`),
-          //插入链接[挖坑]
-          // route_link,
-              ];
-      e.reply(msg);
-      //返回true 阻挡消息不再往下
-      return true;
-      }
-      async shslx(e) {
-        //文本
-        const text = "//---------↓SG-miya↓---------";
-        //路线基本参数
-        const text1 = "\n>> 路线名称:圣骸兽讨伐材料路线";
-        // const text2 = "\n>> 怪物数量:32~34只";
-        // const text3 = "\n>> 预计耗时:18~22min";
-        // const text4 = "\n>> 收益:15分钟27只";
-        // const text5 = "\n>> 狗粮平均:13个（蓝＋紫）";
-        // const text6 = "\n>> 上限需要:三趟";
-        // const text7 = "\n>> 上限:400定义精英怪";
-        const text8 = "\n>> 推荐阵容:怪物血量高，推荐精英怪锄地阵容";
-        const text_ = "\n------不清晰请保存原图查看------//";
-        const route_link = "\n>> https://www.miyoushe.com/ys/article/35149487";
-        let msg = [
-            //@用户
-            // segment.at(e.user_id),
-          //文本消息
-            text,
-            text1,
-          //   text2,
-            // text3,
-          //  text4,
-          //  text5,
-          //  text6,
-          //  text7,
-            text8,
-            text_,
-            //路线图
-            // segment.image(`file:///${s_path}/fklx.webp`),
-            segment.image(`https://s2.loli.net/2023/03/27/Wh6y8ZQbLesUxuG.webp`),
-            //插入链接[挖坑]
-            // route_link,
-                ];
-        e.reply(msg);
-        //返回true 阻挡消息不再往下
-        return true;
-        }
-        async lxglx(e) {
-          //文本
-          const text = "//---------↓SG-miya↓---------";
-          //路线基本参数
-          const text1 = "\n>> 路线名称:原神-流血狗-高效路线（8分钟200材料）";
-          const text2 = "\n>> 怪物数量:平均34左右";
-          const text3 = "\n>> 预计耗时:8min";
-          // const text4 = "\n>> 收益:15分钟27只";
-          // const text5 = "\n>> 狗粮平均:13个（蓝＋紫）";
-          // const text6 = "\n>> 上限需要:三趟";
-          // const text7 = "\n>> 上限:400定义精英怪";
-          const text8 = "\n>> 路线设计避开了-6路线，四连可与-6兼容";
-          const text_ = "\n------不清晰请保存原图查看------//";
-          const route_link = "\n>> https://www.miyoushe.com/ys/article/31948915";
-          let msg = [
-              //@用户
-              // segment.at(e.user_id),
-            //文本消息
-              text,
-              text1,
-              text2,
-              text3,
-            //  text4,
-            //  text5,
-            //  text6,
-            //  text7,
-              text8,
-              text_,
-              //路线图
-              // segment.image(`file:///${s_path}/fklx.webp`),
-              segment.image(`https://s2.loli.net/2023/03/27/9y6FWU1tNYKfuHS.webp`),
-              //插入链接[挖坑]
-              // route_link,
-                  ];
-          e.reply(msg);
-          //返回true 阻挡消息不再往下
-          return true;
-          }
+  async jnlx(e) {
+    //文本
+    const text = "//---------↓SG-miya↓---------";
+    //路线基本参数
+    const text1 = "\n>> 路线名称:原神-藏镜仕女-讨伐路线";
+    const text2 = "\n>> 怪物数量:32~34只";
+    // const text3 = "\n>> 预计耗时:18~22min";
+    const text4 = "\n>> 收益:15分钟27只";
+    // const text5 = "\n>> 狗粮平均:13个（蓝＋紫）";
+    // const text6 = "\n>> 上限需要:三趟";
+    // const text7 = "\n>> 上限:400定义精英怪";
+    const text8 = "\n>> 推荐阵容:双风+任意锄地角色";
+    const text_ = "\n------不清晰请保存原图查看------//";
+    const route_link = "\n>> https://www.miyoushe.com/ys/article/31519330";
+    let msg = [
+        //@用户
+        // segment.at(e.user_id),
+      //文本消息
+        text,
+        text1,
+        text2,
+        // text3,
+        text4,
+      //  text5,
+      //  text6,
+      //  text7,
+        text8,
+        text_,
+        //路线图
+        // segment.image(`file:///${s_path}/fklx.webp`),
+        segment.image(`https://s2.loli.net/2023/03/27/ySHolbr38paKCUT.webp`),
+        //插入链接[挖坑]
+        // route_link,
+            ];
+    e.reply(msg);
+    //返回true 阻挡消息不再往下
+    return true;
+    }
+  async shslx(e) {
+    //文本
+    const text = "//---------↓SG-miya↓---------";
+    //路线基本参数
+    const text1 = "\n>> 路线名称:圣骸兽讨伐材料路线";
+    // const text2 = "\n>> 怪物数量:32~34只";
+    // const text3 = "\n>> 预计耗时:18~22min";
+    // const text4 = "\n>> 收益:15分钟27只";
+    // const text5 = "\n>> 狗粮平均:13个（蓝＋紫）";
+    // const text6 = "\n>> 上限需要:三趟";
+    // const text7 = "\n>> 上限:400定义精英怪";
+    const text8 = "\n>> 推荐阵容:怪物血量高，推荐精英怪锄地阵容";
+    const text_ = "\n------不清晰请保存原图查看------//";
+    const route_link = "\n>> https://www.miyoushe.com/ys/article/35149487";
+    let msg = [
+        //@用户
+        // segment.at(e.user_id),
+      //文本消息
+        text,
+        text1,
+      //   text2,
+        // text3,
+      //  text4,
+      //  text5,
+      //  text6,
+      //  text7,
+        text8,
+        text_,
+        //路线图
+        // segment.image(`file:///${s_path}/fklx.webp`),
+        segment.image(`https://s2.loli.net/2023/03/27/Wh6y8ZQbLesUxuG.webp`),
+        //插入链接[挖坑]
+        // route_link,
+            ];
+    e.reply(msg);
+    //返回true 阻挡消息不再往下
+    return true;
+    }
+  async lxglx(e) {
+    //文本
+    const text = "//---------↓SG-miya↓---------";
+    //路线基本参数
+    const text1 = "\n>> 路线名称:原神-流血狗-高效路线（8分钟200材料）";
+    const text2 = "\n>> 怪物数量:平均34左右";
+    const text3 = "\n>> 预计耗时:8min";
+    // const text4 = "\n>> 收益:15分钟27只";
+    // const text5 = "\n>> 狗粮平均:13个（蓝＋紫）";
+    // const text6 = "\n>> 上限需要:三趟";
+    // const text7 = "\n>> 上限:400定义精英怪";
+    const text8 = "\n>> 路线设计避开了-6路线，四连可与-6兼容";
+    const text_ = "\n------不清晰请保存原图查看------//";
+    const route_link = "\n>> https://www.miyoushe.com/ys/article/31948915";
+    let msg = [
+        //@用户
+        // segment.at(e.user_id),
+      //文本消息
+        text,
+        text1,
+        text2,
+        text3,
+      //  text4,
+      //  text5,
+      //  text6,
+      //  text7,
+        text8,
+        text_,
+        //路线图
+        // segment.image(`file:///${s_path}/fklx.webp`),
+        segment.image(`https://s2.loli.net/2023/03/27/9y6FWU1tNYKfuHS.webp`),
+        //插入链接[挖坑]
+        // route_link,
+            ];
+    e.reply(msg);
+    //返回true 阻挡消息不再往下
+    return true;
+    }
 }
